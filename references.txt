@@ -1,0 +1,7 @@
+
+# DBUnit Rule Extension
+https://rmpestano.github.io/dbunit-rules-sample/dbunit-rules.html
+https://database-rider.github.io/database-rider/1.2.4/documentation.html
+
+# RegressSQL (Go Language)
+https://github.com/dimitri/regresql
